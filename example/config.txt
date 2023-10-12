@@ -1,0 +1,2 @@
+Prefix plugins/CausalPreprocess/example/
+Plugin CausalPreprocess inputfile parameters.txt outputfile .

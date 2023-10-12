@@ -1,0 +1,3 @@
+inputdir	TSV/
+mimosafile	mimosa.txt
+top50file	top50.txt
